@@ -4,5 +4,6 @@ import java.awt.*;
 public class main{
     public static void main(String[] args){
         new Game(new Player(),new Computer()).play();
+        System.Out.Println("Ben");
     }
 }
